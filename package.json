@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ni-ps-lint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "custom rules for PS team",
   "keywords": [
     "eslint",
