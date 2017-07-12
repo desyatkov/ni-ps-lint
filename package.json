@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ni-ps-lint",
-  "version": "1.0.7",
+  "version": "1.1.1",
   "description": "custom Eslint rules for PS team",
   "keywords": [
     "eslint",
@@ -15,11 +15,16 @@
   "dependencies": {
     "requireindex": "~1.1.0",
     "ast-parents": "0.0.1",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "ramda": "0.24.1",
+    "eslint-plugin-html": "^3.1.0",
+    "eslint-plugin-lodash": "^2.4.3"
   },
   "devDependencies": {
     "eslint": "~4.2.0",
-    "mocha": "^3.4.2"
+    "mocha": "^3.4.2",
+    "eslint-plugin-compat": "^1.0.4",
+    "eslint-plugin-optimize-regex": "^1.1.3"
   },
   "engines": {
     "node": ">=0.10.0"
