@@ -1,5 +1,7 @@
 # eslint-plugin-ni-ps-lint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/desyatkov/ni-ps-lint.svg)](https://greenkeeper.io/)
+
 custom rules for PS team
 
 ## Installation
